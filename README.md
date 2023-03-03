@@ -9,7 +9,7 @@ To use the first feature, you'll need to write your game and next player to make
 
 In this example, in the first line you specify the player that needs to move (in this case O), and then how the game looks from the moment you want to print all possible outcomes (- is for free spaces).
       
-For the second feature, the input file has the same format as the first feature and for execution you need to use -c2 when executing the file.
+For the second feature, the input file has the same format as the first feature.
 
 For the third feature, in the input file you need to specify the maximum level of the tree, the number of child-nodes the parent-node ( if the parent-node has 3 kids it should be (3) ) and for leaf nodes you need to specify their value like this [x].
 An example of input file is:
